@@ -1,0 +1,16 @@
+p {
+  padding-left: 10px;
+}
+
+.list-group-item {
+  border: 2px outset gray;
+  padding: .6em;
+  font-size: 1.1em;
+  display: block;
+  margin: 1em auto;
+}
+
+
+.list-item-description {
+  display: flex;
+}
